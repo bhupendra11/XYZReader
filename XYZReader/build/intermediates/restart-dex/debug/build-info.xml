@@ -4,33 +4,37 @@
     api-level="23"
     density="xxhdpi"
     format="8"
-    timestamp="13626622539614"
-    token="6082589488595394458"
-    verifier="FULL_BUILD_REQUESTED" >
+    timestamp="22775059871933"
+    token="6082589488595394458" >
 
     <task
         name="javac"
-        duration="910" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="349" />
+        duration="0" />
     <task
         name="verifier"
-        duration="15" />
+        duration="0" />
 
     <artifact
-        location="/home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
-        type="MAIN" />
+        location="/home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
-        timestamp="13626622539614"
+        timestamp="22389309909839"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="22775059871933" >
+        <artifact
+            location="/home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

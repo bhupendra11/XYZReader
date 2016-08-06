@@ -33,6 +33,10 @@ application
 ADDED from /home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/src/main/AndroidManifest.xml:11:5-46:19
 MERGED from [com.android.support:support-v13:23.0.0] /home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.0.0] /home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.0.0] /home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.0] /home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] /home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] /home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.0.0] /home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.0.0] /home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:palette-v7:23.0.0] /home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.0.0/AndroidManifest.xml:22:5-23:19
@@ -107,6 +111,10 @@ ADDED from /home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader
 uses-sdk
 INJECTED from /home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:support-v13:23.0.0] /home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:23.0.0] /home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.0.0] /home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.0] /home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] /home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.0.0] /home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:23.0.0] /home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.0.0] /home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
