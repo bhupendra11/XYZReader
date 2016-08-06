@@ -1,0 +1,7 @@
+#Sat Aug 06 16:18:34 IST 2016
+base.0=/home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_51f1f6fc86d89d81b87ffc4a231b07a21df1d5c4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ea6a5ae6ef49d9d4624630ad40ce3aaa2f9b4999/classes.dex
+base.1=/home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ea6a5ae6ef49d9d4624630ad40ce3aaa2f9b4999
+file.0=/home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_51f1f6fc86d89d81b87ffc4a231b07a21df1d5c4/classes.dex
