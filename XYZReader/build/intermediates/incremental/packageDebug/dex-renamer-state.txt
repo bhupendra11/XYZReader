@@ -1,4 +1,4 @@
-#Sat Aug 06 18:44:19 IST 2016
+#Sun Aug 28 12:55:36 IST 2016
 base.0=/home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_51f1f6fc86d89d81b87ffc4a231b07a21df1d5c4
 renamed.1=classes.dex
 renamed.0=classes2.dex

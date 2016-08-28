@@ -1065,33 +1065,33 @@
                     "startLine": 242,
                     "startColumn": 4,
                     "startOffset": 17507,
-                    "endLine": 248,
+                    "endLine": 250,
                     "endColumn": 12,
-                    "endOffset": 17789
-                },
-                "from": {
-                    "file": "/home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/src/main/res/values-v21/styles.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 249,
-                    "startColumn": 4,
-                    "startOffset": 17794,
-                    "endLine": 251,
-                    "endColumn": 12,
-                    "endOffset": 17939
+                    "endOffset": 17967
                 },
                 "from": {
                     "file": "/home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/src/main/res/values-v21/styles.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 344,
-                        "endLine": 13,
+                        "startOffset": 55,
+                        "endLine": 10,
                         "endColumn": 12,
-                        "endOffset": 489
+                        "endOffset": 515
                     }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 17972,
+                    "endLine": 254,
+                    "endColumn": 12,
+                    "endOffset": 18118
+                },
+                "from": {
+                    "file": "/home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/src/main/res/values-v21/styles.xml"
                 }
             }
         ]

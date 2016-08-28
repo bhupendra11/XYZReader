@@ -245,9 +245,12 @@
         <item name="android:colorPrimary">@color/red_500</item>
         <item name="android:colorPrimaryDark">@color/red_700</item>
         <item name="android:colorAccent">@color/green_a200</item>
+       <!-- <item name="android:windowExitTransition">@transition/grid_exit</item>  -->
+        <item name="android:windowReenterTransition">@android:transition/slide_top</item>
 
     </style>
     <style name="Theme.Bacon.Detail" parent="Theme.Bacon">
         <item name="android:statusBarColor">@android:color/transparent</item>
+
     </style>
 </resources>

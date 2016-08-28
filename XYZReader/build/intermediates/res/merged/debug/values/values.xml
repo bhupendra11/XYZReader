@@ -227,7 +227,7 @@
     <dimen name="design_tab_max_width">264dp</dimen>
     <dimen name="design_tab_min_width">72dp</dimen>
     <dimen name="detail_body_bottom_margin">88dp</dimen>
-    <dimen name="detail_body_text_size">22sp</dimen>
+    <dimen name="detail_body_text_size">16sp</dimen>
     <dimen name="detail_body_top_margin">16dp</dimen>
     <dimen name="detail_card_max_width">10000dp</dimen>
     <dimen name="detail_card_top_margin">@dimen/detail_photo_height</dimen>
@@ -297,6 +297,7 @@
     <string name="app_name">XYZ Reader</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="transition_photo">SharedPhoto</string>
     <string name="up">Up</string>
     <string name="welcome_xyz_reader">Welcome to XYZ Reader!</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
@@ -1486,11 +1487,8 @@
         <item name="windowNoTitle">true</item>
     </style>
     <style name="Theme.Bacon" parent="Theme.AppCompat.Light.NoActionBar">
-
-
     </style>
     <style name="Theme.Bacon.Detail">
-
     </style>
     <style name="ThemeOverlay.AppCompat" parent="Base.ThemeOverlay.AppCompat"/>
     <style name="ThemeOverlay.AppCompat.ActionBar" parent="Base.ThemeOverlay.AppCompat.ActionBar"/>
