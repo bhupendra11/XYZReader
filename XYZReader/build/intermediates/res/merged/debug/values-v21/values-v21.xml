@@ -242,10 +242,12 @@
     <style name="Platform.ThemeOverlay.AppCompat.Light"/>
     <style name="Theme.Bacon" parent="Theme.AppCompat.Light.NoActionBar">
 
+
         <item name="android:colorPrimary">@color/red_500</item>
         <item name="android:colorPrimaryDark">@color/red_700</item>
         <item name="android:colorAccent">@color/green_a200</item>
-       <!-- <item name="android:windowExitTransition">@transition/grid_exit</item>  -->
+        <!--<item name="android:windowContentTransitions">true</item>
+       <item name="android:windowExitTransition">@transition/grid_exit</item>-->
         <item name="android:windowReenterTransition">@android:transition/slide_top</item>
 
     </style>

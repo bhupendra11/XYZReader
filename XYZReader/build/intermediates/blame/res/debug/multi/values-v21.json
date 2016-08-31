@@ -1065,9 +1065,9 @@
                     "startLine": 242,
                     "startColumn": 4,
                     "startOffset": 17507,
-                    "endLine": 250,
+                    "endLine": 252,
                     "endColumn": 12,
-                    "endOffset": 17967
+                    "endOffset": 18031
                 },
                 "from": {
                     "file": "/home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/src/main/res/values-v21/styles.xml",
@@ -1075,20 +1075,20 @@
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 55,
-                        "endLine": 10,
+                        "endLine": 12,
                         "endColumn": 12,
-                        "endOffset": 515
+                        "endOffset": 579
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 251,
+                    "startLine": 253,
                     "startColumn": 4,
-                    "startOffset": 17972,
-                    "endLine": 254,
+                    "startOffset": 18036,
+                    "endLine": 256,
                     "endColumn": 12,
-                    "endOffset": 18118
+                    "endOffset": 18182
                 },
                 "from": {
                     "file": "/home/bhupendra/AndroidNanodegree/AndroidNanodegreeProjects/xyzreader/XYZReader/src/main/res/values-v21/styles.xml"

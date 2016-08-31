@@ -58,7 +58,7 @@
                     android:paddingBottom="@dimen/detail_metabar_vert_padding"
                     android:layout_marginBottom="@dimen/detail_metabar_vert_padding">
 
-                    <com.bhupendra.xyzreader.ui.AutoResizeTextView
+                   <!-- <com.bhupendra.xyzreader.ui.AutoResizeTextView
                         android:id="@+id/article_title"
                         style="?android:attr/textAppearanceMedium"
                         android:layout_width="match_parent"
@@ -69,9 +69,9 @@
                         android:textStyle="bold"
                         android:lineSpacingMultiplier="0.9"
                         android:maxLines="1"
-                        />
+                        />-->
 
-                    <!--<TextView
+                    <TextView
                         android:id="@+id/article_title"
                         style="?android:attr/textAppearanceMedium"
                         android:layout_width="match_parent"
@@ -80,7 +80,7 @@
                         android:fontFamily="sans-serif-condensed"
                         android:textColor="#fff"
                         android:textStyle="bold"
-                        android:lineSpacingMultiplier="0.9" />-->
+                        android:lineSpacingMultiplier="0.9" />
 
                     <TextView
                         android:id="@+id/article_byline"

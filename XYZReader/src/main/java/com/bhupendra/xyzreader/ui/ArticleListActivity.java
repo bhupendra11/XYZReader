@@ -134,21 +134,9 @@ public class ArticleListActivity extends AppCompatActivity implements
                 @Override
                 public void onClick(View view) {
 
-                    View sharedImageView= view.findViewById(R.id.thumbnail);
-
-                  if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.LOLLIPOP) {
-                        Bundle bundle = ActivityOptions.makeSceneTransitionAnimation(
-                                        activity,
-                                        sharedImageView,
-                                        sharedImageView.getTransitionName())
-                                        .toBundle();
-                        startActivity(new Intent(Intent.ACTION_VIEW,
-                                ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))) , bundle);
-                    }
-                    else {
                        startActivity(new Intent(Intent.ACTION_VIEW,
                                ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))));
-                   }
+
                 }
             });
             return vh;
