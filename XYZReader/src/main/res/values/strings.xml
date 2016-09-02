@@ -10,4 +10,8 @@
     <string name="up">Up</string>
     <string name="transition_photo">SharedPhoto</string>
 
+    <!-- Content descriptions  -->
+    <string name="image_desc">Representative image for article"</string>
+    <string name="fab_button_desc">Button to share this article </string>
+
 </resources>

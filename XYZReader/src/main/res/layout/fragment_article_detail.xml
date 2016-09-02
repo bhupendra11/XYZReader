@@ -26,12 +26,12 @@
                     android:layout_width="match_parent"
                     android:layout_height="@dimen/detail_photo_height"
                     android:scaleType="centerCrop"
-
+                    android:contentDescription="@string/image_desc"
                      />
 
                 <View
                     android:layout_width="match_parent"
-                    android:layout_height="112dp"
+                    android:layout_height="@dimen/photo_background_protection_layout_height"
                     android:background="@drawable/photo_background_protection" />
             </FrameLayout>
 
@@ -41,8 +41,8 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:maxWidth="@dimen/detail_card_max_width"
-                android:background="#fff"
-                android:elevation="2dp"
+                android:background="@color/article_detail_background_color"
+                android:elevation="@dimen/article_layout_elevation"
                 android:layout_marginTop="@dimen/detail_card_top_margin">
 
                 <LinearLayout
@@ -50,7 +50,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_gravity="bottom"
-                    android:background="#abc"
+                    android:background="@color/detail_metabar_background"
                     android:orientation="vertical"
                     android:paddingLeft="@dimen/detail_inner_horiz_margin"
                     android:paddingRight="@dimen/detail_inner_horiz_margin"
@@ -58,18 +58,6 @@
                     android:paddingBottom="@dimen/detail_metabar_vert_padding"
                     android:layout_marginBottom="@dimen/detail_metabar_vert_padding">
 
-                   <!-- <com.bhupendra.xyzreader.ui.AutoResizeTextView
-                        android:id="@+id/article_title"
-                        style="?android:attr/textAppearanceMedium"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:paddingBottom="@dimen/detail_metabar_title_bottom_padding"
-                        android:fontFamily="sans-serif-condensed"
-                        android:textColor="#fff"
-                        android:textStyle="bold"
-                        android:lineSpacingMultiplier="0.9"
-                        android:maxLines="1"
-                        />-->
 
                     <TextView
                         android:id="@+id/article_title"
@@ -78,7 +66,7 @@
                         android:layout_height="wrap_content"
                         android:paddingBottom="@dimen/detail_metabar_title_bottom_padding"
                         android:fontFamily="sans-serif-condensed"
-                        android:textColor="#fff"
+                        android:textColor="@color/article_detail_background_color"
                         android:textStyle="bold"
                         android:lineSpacingMultiplier="0.9" />
 
@@ -87,7 +75,7 @@
                         style="?android:attr/textAppearanceSmall"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textColor="#8fff" />
+                        android:textColor="@color/article_byline_background_color" />
                 </LinearLayout>
 
                 <TextView
@@ -105,14 +93,15 @@
         </FrameLayout>
     </com.bhupendra.xyzreader.ui.ObservableScrollView>
 
-    <ImageButton android:id="@+id/share_fab"
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/share_fab"
         android:stateListAnimator="@anim/fab_state_list_anim"
         android:background="@drawable/add_fab_background"
         android:layout_gravity="bottom|end"
         android:layout_marginRight="@dimen/fab_margin"
         android:layout_marginBottom="@dimen/fab_margin"
-        android:layout_width="56dp"
-        android:layout_height="56dp"
+        android:layout_width="@dimen/fab_width"
+        android:layout_height="@dimen/fab_width"
         android:src="@drawable/ic_share"
         android:elevation="@dimen/fab_elevation"
         android:contentDescription="@string/action_share" />
